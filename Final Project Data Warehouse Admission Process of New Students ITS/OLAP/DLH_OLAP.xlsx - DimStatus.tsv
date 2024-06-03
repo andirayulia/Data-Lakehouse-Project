@@ -1,0 +1,4 @@
+StatusID	StatusPendaftaran	StatusSeleksi	StatusDaftarUlang
+1	Daftar	Diterima	Daftar Ulang
+2	Daftar	Diterima	Belum Daftar Ulang
+3	Daftar	Tidak Diterima	Belum Daftar Ulang
